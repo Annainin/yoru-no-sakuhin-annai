@@ -3,17 +3,134 @@
   "updatedAt": "2026-11-03",
   "performers": [
     {
-      "id": "Act1",
-      "name": "女優1",
-      "profile": "あかさたな",
+      "id": "performer-001",
+      "name": "河北彩花",
+      "profile": "公式プロフィールでは河北彩伽名義も確認できる。旧芸名との表記関係は作品登録時に照合する。",
       "tags": [
-        "ドラマ",
-        "高画質"
+        "プロフィール確認要",
+        "出演者"
       ],
       "imageUrl": "",
-      "sourceUrl": "https://example.com/test-source",
+      "sourceUrl": "https://db.avjoho.com/河北彩花/",
       "checkedAt": "2026-11-03",
-      "imageUsageBasis": "画像なし"
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-002",
+      "name": "石川澪",
+      "profile": "公式プロフィール掲載名：石川澪。詳細プロフィールは出典ページで確認。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://alive-pro.tokyo/model/mio_ishikawa",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-003",
+      "name": "八木奈々",
+      "profile": "所属事務所の公式プロフィール掲載名：八木奈々。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://mines-pro.jp/model/10786",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-004",
+      "name": "明里つむぎ",
+      "profile": "所属プロダクションの公式プロフィール掲載名：明里つむぎ。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://cmore.jp/official/model-akari.html",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-005",
+      "name": "天使もえ",
+      "profile": "公式サイト掲載名：天使もえ。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://amatsuka.moe/",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-006",
+      "name": "相沢みなみ",
+      "profile": "公開プロフィール情報を確認するための候補。現行の活動状況・表記は追加確認が必要。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://thetv.jp/person/2000040828/",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-007",
+      "name": "楓カレン",
+      "profile": "所属プロダクションのプロフィール掲載名：楓カレン。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://life-promotion.com/model/kaede-karen.php",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-008",
+      "name": "希島あいり",
+      "profile": "所属事務所の公式プロフィール掲載名：希島あいり。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://www.duo-official.com/models/airi-kijima/",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-009",
+      "name": "JULIA",
+      "profile": "所属プロダクションの公式プロフィール掲載名：JULIA。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://cmore.jp/official/model-julia.html",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
+    },
+    {
+      "id": "performer-010",
+      "name": "三上悠亜",
+      "profile": "公式サイト掲載名：三上悠亜。現在の活動情報は公式サイトで確認。",
+      "tags": [
+        "プロフィール確認要",
+        "出演者"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://miss.co.jp/",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし（画像利用許諾未確認のため未掲載）"
     }
   ],
   "works": []
