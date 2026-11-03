@@ -1,5 +1,5 @@
 {
-  "version": "4.7.1",
+  "version": "4.9",
   "updatedAt": "2026-11-04",
   "performers": [
     {
@@ -19,7 +19,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://mioishikawa.bitfan.id/contents/menu/62333",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -29,7 +29,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -39,7 +39,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://cmore.jp/official/model-akari.html",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -49,7 +49,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://amatsuka.moe/",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -59,7 +59,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -69,7 +69,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -79,7 +79,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://www.duo-official.com/models/airi-kijima/",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -89,7 +89,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://cmore.jp/official/model-julia.html",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -99,7 +99,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://miss.co.jp/",
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-03",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     }
   ],
@@ -113,11 +113,12 @@
       "genres": [],
       "releaseDate": "2026-10-02",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-002",
@@ -128,11 +129,12 @@
       "genres": [],
       "releaseDate": "2026-07-31",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-003",
@@ -143,11 +145,12 @@
       "genres": [],
       "releaseDate": "2026-08-28",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-004",
@@ -158,11 +161,12 @@
       "genres": [],
       "releaseDate": "2026-10-02",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1057477",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-005",
@@ -173,11 +177,12 @@
       "genres": [],
       "releaseDate": "2026-09-25",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1057477",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-006",
@@ -188,11 +193,12 @@
       "genres": [],
       "releaseDate": "2026-02-13",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1057477",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-007",
@@ -203,11 +209,12 @@
       "genres": [],
       "releaseDate": "2026-10-30",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-008",
@@ -218,11 +225,12 @@
       "genres": [],
       "releaseDate": "2026-10-02",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-010",
@@ -233,11 +241,12 @@
       "genres": [],
       "releaseDate": "2026-09-25",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-011",
@@ -248,11 +257,12 @@
       "genres": [],
       "releaseDate": "2026-09-04",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-012",
@@ -263,11 +273,12 @@
       "genres": [],
       "releaseDate": "2026-06-26",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-013",
@@ -278,11 +289,12 @@
       "genres": [],
       "releaseDate": "2026-10-22",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1037663",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-014",
@@ -293,11 +305,12 @@
       "genres": [],
       "releaseDate": "2026-09-17",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1037663",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-016",
@@ -308,11 +321,12 @@
       "genres": [],
       "releaseDate": "2026-09-24",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1004672",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-017",
@@ -323,11 +337,12 @@
       "genres": [],
       "releaseDate": "2026-09-18",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1004672",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-018",
@@ -338,11 +353,12 @@
       "genres": [],
       "releaseDate": "2026-07-31",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1004672",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-019",
@@ -353,11 +369,12 @@
       "genres": [],
       "releaseDate": "2026-09-25",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1030262",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-020",
@@ -368,11 +385,12 @@
       "genres": [],
       "releaseDate": "2026-09-18",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1030262",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-021",
@@ -383,11 +401,12 @@
       "genres": [],
       "releaseDate": "2026-09-04",
       "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1030262",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "provisional_listing_only"
     },
     {
       "id": "work-023",
@@ -398,11 +417,12 @@
       "genres": [],
       "releaseDate": "2026-10-27",
       "duration": "",
-      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "official_list_verified"
     },
     {
       "id": "work-024",
@@ -413,11 +433,12 @@
       "genres": [],
       "releaseDate": "2026-09-22",
       "duration": "",
-      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "official_list_verified"
     },
     {
       "id": "work-022",
@@ -428,11 +449,44 @@
       "genres": [],
       "releaseDate": "2026-08-25",
       "duration": "",
-      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04"
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "official_list_verified"
+    },
+    {
+      "id": "work-025",
+      "title": "出張先、二人きりの温泉旅館 僕を慕う圧倒的美人な後輩に迫られたら寝取られても仕方がない 河北彩花",
+      "performerIds": [
+        "performer-001"
+      ],
+      "genres": [],
+      "releaseDate": "2026-07-28",
+      "duration": "",
+      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
+      "imageUrl": "",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "official_list_verified"
+    },
+    {
+      "id": "work-026",
+      "title": "河北彩花の尊い美顔を心おきなく拝みたい。",
+      "performerIds": [
+        "performer-001"
+      ],
+      "genres": [],
+      "releaseDate": "2026-06-23",
+      "duration": "",
+      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
+      "imageUrl": "",
+      "affiliateUrl": "",
+      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
+      "checkedAt": "2026-11-04",
+      "verificationStatus": "official_list_verified"
     }
   ]
 }
