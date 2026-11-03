@@ -1,6 +1,20 @@
 {
   "version": "4.7",
-  "updatedAt": "",
-  "performers": [],
+  "updatedAt": "2026-11-03",
+  "performers": [
+    {
+      "id": "Act1",
+      "name": "女優1",
+      "profile": "あかさたな",
+      "tags": [
+        "ドラマ",
+        "高画質"
+      ],
+      "imageUrl": "",
+      "sourceUrl": "https://example.com/test-source",
+      "checkedAt": "2026-11-03",
+      "imageUsageBasis": "画像なし"
+    }
+  ],
   "works": []
 }
