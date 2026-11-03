@@ -1,42 +1,34 @@
-夜の作品案内所 4.4
-テーマ：DMM Webサービス公式API連携の実装準備
+夜の作品案内所 4.6
 
-今回追加したもの
-- api-search.html / api-search.js：公式API検索画面
-- worker.js：Cloudflare Worker用のAPIプロキシ
-- api-config.js：Worker URLのみを設定する公開設定ファイル
-- api-integration-guide.html：初期設定手順
-- style.css：検索画面・ガイド画面の追加スタイル
-- index.html / sitemap.html：公式データ検索への導線
+■ 4.6の目的
+一般的な読み物ページを増やすのではなく、出演者・作品を実際に探し、比較し、次の候補へ移動できる「作品発見ポータル」の機能を強化しました。
 
-重要：このZIPをアップロードしただけでは、実際のAPI検索はまだ動きません。
-DMM API利用登録と認証情報、Cloudflare Workerのデプロイが必要です。
-API ID・アフィリエイトIDをHTML/JS/GitHubへ絶対に書かないでください。
-チャットにも認証情報を貼らないでください。
+■ 4.6で追加・改善した内容
+1. 出演者詳細ページに「共通点のある出演者」を追加。
+   - 登録タグ（ジャンル・作品傾向）の一致数を計算して表示します。
+   - 共通しているタグを明示し、おすすめ理由が分かる設計です。
+   - 顔立ち・外見が似ているという判定は行いません。
+2. related.html：出演者を選ぶと、メタデータの共通点順に関連候補を表示。
+3. compare.html：2名の出演者の登録タグ・共通点・データ登録状況を同じ基準で比較。
+4. トップページから関連出演者検索・比較機能へ移動可能。
+5. data-template.jsonを、出演者・作品の出典URL、確認日、画像利用根拠を記録できる形に整理。
+6. 架空データであること、公式データ未連携であることを各機能で明示。
 
-設定手順
-1. DMM Webサービス利用登録とAPI ID発行を確認。
-2. Cloudflare Workerを作成し、worker.jsを貼り付けてデプロイ。
-3. WorkerのSecretに DMM_API_ID / DMM_AFFILIATE_ID を登録。
-4. Workerの通常変数 ALLOWED_ORIGIN に https://annainin.github.io を登録。
-5. api-config.js の YORU_API_BASE_URL にWorker URLを設定。
-6. GitHub Pagesへ全ファイルをアップロードし、api-search.htmlで確認。
+■ 重要：公開・審査について
+このZIPに含まれる出演者名・作品名・タグは、操作確認用の架空サンプルです。実在の出演者・作品情報ではありません。
+実在の人物名、作品情報、パッケージ画像、紹介文、レビュー、ランキングを推測で追加しないでください。
+DMM/FANZA公式APIや画像を使う場合は、アカウント権限・API利用条件・画像等の利用条件を確認し、許諾された方法で取得した情報だけを使用してください。
+API未接続のため、実作品の検索・アフィリエイトリンク生成はまだ動作しません。
 
-対象API
-DMM Affiliate Web Service v3 ItemList
-site=FANZA / service=digital / floor=videoa
-検索語句を使った商品情報検索（最大20件）
+■ GitHub Pagesへの反映
+1. ZIPを解凍します。
+2. 中身のファイル・フォルダをGitHubリポジトリのルートへアップロードします。
+3. 同名ファイルは上書きします。
+4. 新規ファイル related.html / related.js / compare.js も追加します。
+5. index.htmlを開き、関連する出演者を探す・出演者比較・出演者詳細の関連候補を確認します。
 
-セキュリティ・規約
-- Worker URLは公開されてもよいが、API ID/アフィリエイトIDは必ずWorker Secretで管理。
-- API利用条件、表示クレジット、画像・データの利用範囲はDMM公式の最新規約・ガイドを必ず確認。
-- API接続やサイト更新がDMMアフィリエイト審査通過を保証するものではありません。
-- API連携前の表示サンプルは実在データではありません。
+■ 今回の主な追加ファイル
+related.html / related.js / compare.js
 
-参考
-https://support.fanza.jp/affiliate/article/44538
-https://support.dmm.com/affiliate/article/47546
-https://affiliate.dmm.com/api/
-https://developers.cloudflare.com/workers/
-
-このバージョンはAPI連携の土台です。API認証情報を含めずに配布しています。
+■ 既存のCloudflare Workerについて
+4.6ではworker.jsを変更していません。API ID等の認証情報を公開リポジトリやチャットに記載しないでください。

@@ -1,29 +1,34 @@
 {
-  "_notice": "これは入力形式の見本です。架空のサンプル値であり、実在の出演者・作品情報ではありません。",
-  "actors": [
+  "_notice": "入力形式のテンプレート。下記は架空の例ではなく空の項目構造です。実在データは公式情報・利用条件を確認してから登録してください。",
+  "performers": [
     {
-      "id": "actor-id-from-official-data",
-      "name": "出演者名",
-      "image": "",
-      "profile": "公式情報で確認した紹介文。確認できない項目は空欄にします。",
-      "profileSource": "確認した公式情報の出典メモ",
-      "workIds": ["work-id-001"]
+      "id": "official-performer-id",
+      "name": "公式表記の出演者名",
+      "aliases": [],
+      "imageUrl": "",
+      "profile": "公式に確認できる情報のみ。確認できない項目は空欄。",
+      "tags": ["公式データで確認したタグ"],
+      "workIds": [],
+      "sourceUrl": "",
+      "checkedAt": "YYYY-MM-DD",
+      "imageUsageBasis": "画像利用条件の確認メモ"
     }
   ],
   "works": [
     {
-      "id": "work-id-001",
+      "id": "official-product-id",
       "title": "公式データの商品タイトル",
-      "image": "公式APIが返す利用可能な画像URL",
+      "imageUrl": "",
       "releaseDate": "YYYY-MM-DD",
       "durationMinutes": null,
-      "genres": ["公式データのジャンル名"],
-      "actorIds": ["actor-id-from-official-data"],
-      "affiliateUrl": "公式APIが返すアフィリエイトURL",
+      "genres": [],
+      "performerIds": ["official-performer-id"],
+      "affiliateUrl": "",
       "price": null,
       "reviewAverage": null,
       "reviewCount": null,
-      "lastChecked": "YYYY-MM-DD"
+      "sourceUrl": "",
+      "checkedAt": "YYYY-MM-DD"
     }
   ]
 }

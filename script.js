@@ -48,35 +48,35 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // 4.2 performer profile and linked sample works
 const sampleActors = {
-  "sample-a": { name: "出演者サンプル A", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-a": { tags:["ドラマ","長編","高画質"], name: "出演者サンプル A", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"a-01",title:"作品サンプル A-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"a-02",title:"作品サンプル A-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
-  "sample-b": { name: "出演者サンプル B", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-b": { tags:["ドラマ","シリーズ","高画質"], name: "出演者サンプル B", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"b-01",title:"作品サンプル B-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"b-02",title:"作品サンプル B-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
-  "sample-c": { name: "出演者サンプル C", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-c": { tags:["VR","高画質","単体作品"], name: "出演者サンプル C", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"c-01",title:"作品サンプル C-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"c-02",title:"作品サンプル C-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
-  "sample-d": { name: "出演者サンプル D", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-d": { tags:["総集編","長時間","シリーズ"], name: "出演者サンプル D", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"d-01",title:"作品サンプル D-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"d-02",title:"作品サンプル D-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
-  "sample-e": { name: "出演者サンプル E", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-e": { tags:["ドキュメンタリー","単体作品","長編"], name: "出演者サンプル E", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"e-01",title:"作品サンプル E-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"e-02",title:"作品サンプル E-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
-  "sample-f": { name: "出演者サンプル F", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-f": { tags:["ドラマ","長編","シリーズ"], name: "出演者サンプル F", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"f-01",title:"作品サンプル F-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"f-02",title:"作品サンプル F-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
-  "sample-g": { name: "出演者サンプル G", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-g": { tags:["VR","高画質","シリーズ"], name: "出演者サンプル G", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"g-01",title:"作品サンプル G-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"g-02",title:"作品サンプル G-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
-  "sample-h": { name: "出演者サンプル H", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
+  "sample-h": { tags:["ドキュメンタリー","単体作品","高画質"], name: "出演者サンプル H", intro: "プロフィール表示のサンプルです。実在の人物情報ではありません。", facts: ["プロフィール項目：準備中", "関連作品：サンプル2件"], works: [
     {id:"h-01",title:"作品サンプル H-01",summary:"作品情報カードの表示サンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"},
     {id:"h-02",title:"作品サンプル H-02",summary:"作品詳細ページへの遷移を確認するサンプルです。",genre:"ジャンルサンプル",date:"公開情報未登録",duration:"未登録"}
   ]},
@@ -91,6 +91,14 @@ function renderActorProfile(){
  document.getElementById("actorFacts").innerHTML=actor.facts.map(x=>'<span>'+esc(x)+'</span>').join("");
  document.getElementById("workCount").textContent=actor.works.length+"件（サンプル）";
  root.innerHTML=actor.works.map(w=>'<a class="work" href="work-detail.html?id='+encodeURIComponent(w.id)+'&actor='+encodeURIComponent(id)+'"><div class="thumb"><span>作品画像</span><span class="sample">サンプル</span></div><div class="info"><h3>'+esc(w.title)+'</h3><p>'+esc(w.genre)+' · '+esc(w.date)+'</p></div></a>').join("");
+ const relatedRoot=document.getElementById("relatedActors");
+ if(relatedRoot){
+   const ranked=Object.entries(sampleActors).filter(([otherId])=>otherId!==id).map(([otherId,other])=>{
+     const common=(actor.tags||[]).filter(tag=>(other.tags||[]).includes(tag));
+     return {otherId,other,common,score:common.length};
+   }).filter(x=>x.score>0).sort((a,b)=>b.score-a.score||a.other.name.localeCompare(b.other.name,"ja")).slice(0,4);
+   relatedRoot.innerHTML=ranked.map(x=>'<a class="actor-card" href="actor.html?id='+encodeURIComponent(x.otherId)+'"><div class="actor-photo"><span class="portrait-placeholder">PHOTO</span><span class="sample">サンプル</span></div><div class="actor-name">'+esc(x.other.name)+'</div><div class="actor-meta">共通点 '+x.score+'件：'+esc(x.common.join("・"))+'</div></a>').join("")||'<p>共通データがありません。</p>';
+ }
 }
 function renderWorkDetail(){
  const title=document.getElementById("workTitle");if(!title)return;
