@@ -1,17 +1,42 @@
-夜の作品案内所 4.3
+夜の作品案内所 4.4
+テーマ：DMM Webサービス公式API連携の実装準備
 
-今回の追加
-- works.html：出演者・作品を横断して探せる作品一覧
-- 作品名／出演者名／ジャンル／説明文の部分一致検索
-- 検索クリアボタン、件数表示、該当なし表示
-- api-integration-guide.html：DMM Webサービスを利用する際のデータ方針とAPIキー保護方針
-- data-template.json：将来の公式データ連携に備えたデータ項目テンプレート
-- ガイド一覧・サイトマップから新ページへ移動可能
+今回追加したもの
+- api-search.html / api-search.js：公式API検索画面
+- worker.js：Cloudflare Worker用のAPIプロキシ
+- api-config.js：Worker URLのみを設定する公開設定ファイル
+- api-integration-guide.html：初期設定手順
+- style.css：検索画面・ガイド画面の追加スタイル
+- index.html / sitemap.html：公式データ検索への導線
 
-重要な注意
-このバージョンにも実在する出演者・作品データは入っていません。表示データは架空のサンプルです。
-公式データの取得にはDMM会員登録、DMMアフィリエイト登録、API利用登録が必要です。API IDやアフィリエイトIDをGitHub PagesのHTML/JavaScript/JSONへ直接書くと公開されるため、絶対に埋め込まないでください。
-実データ連携は、認証情報を非公開のサーバー側で管理する構成を用意してから行います。公式データの画像・文章・リンクは利用条件に従ってください。
+重要：このZIPをアップロードしただけでは、実際のAPI検索はまだ動きません。
+DMM API利用登録と認証情報、Cloudflare Workerのデプロイが必要です。
+API ID・アフィリエイトIDをHTML/JS/GitHubへ絶対に書かないでください。
+チャットにも認証情報を貼らないでください。
 
-アップロード
-ZIP内の全ファイルをGitHubリポジトリのルートへアップロードし、同名ファイルを上書きしてください。既存ファイルを削除しないでください。
+設定手順
+1. DMM Webサービス利用登録とAPI ID発行を確認。
+2. Cloudflare Workerを作成し、worker.jsを貼り付けてデプロイ。
+3. WorkerのSecretに DMM_API_ID / DMM_AFFILIATE_ID を登録。
+4. Workerの通常変数 ALLOWED_ORIGIN に https://annainin.github.io を登録。
+5. api-config.js の YORU_API_BASE_URL にWorker URLを設定。
+6. GitHub Pagesへ全ファイルをアップロードし、api-search.htmlで確認。
+
+対象API
+DMM Affiliate Web Service v3 ItemList
+site=FANZA / service=digital / floor=videoa
+検索語句を使った商品情報検索（最大20件）
+
+セキュリティ・規約
+- Worker URLは公開されてもよいが、API ID/アフィリエイトIDは必ずWorker Secretで管理。
+- API利用条件、表示クレジット、画像・データの利用範囲はDMM公式の最新規約・ガイドを必ず確認。
+- API接続やサイト更新がDMMアフィリエイト審査通過を保証するものではありません。
+- API連携前の表示サンプルは実在データではありません。
+
+参考
+https://support.fanza.jp/affiliate/article/44538
+https://support.dmm.com/affiliate/article/47546
+https://affiliate.dmm.com/api/
+https://developers.cloudflare.com/workers/
+
+このバージョンはAPI連携の土台です。API認証情報を含めずに配布しています。
