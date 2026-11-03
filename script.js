@@ -1,6 +1,14 @@
 
+const demoWorks = [
+{tags:["ドラマ","長編"]},{tags:["高画質","単体作品"]},{tags:["VR","映像形式"]},{tags:["総集編","長時間"]},{tags:["ドキュメンタリー","単体作品"]},{tags:["シリーズ","長編"]},{tags:["新着","高画質"]},{tags:["人気","シリーズ"]},{tags:["ドラマ","シリーズ"]},{tags:["VR","高画質"]},{tags:["総集編","長時間"]},{tags:["ドキュメンタリー","単体作品"]}
+];
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+function render(filter){let nodes=[...document.querySelectorAll('.work')];nodes.forEach((n,i)=>{n.style.display=(filter==='all'||demoWorks[i].tags.includes(filter))?'':'none';});}
 document.addEventListener('DOMContentLoaded',()=>{
- const form=document.querySelector('[data-search-form]');
- if(form){form.addEventListener('submit',e=>{e.preventDefault();const q=(form.querySelector('[name="q"]')?.value||'').trim();const g=form.querySelector('[name="genre"]')?.value||'';const box=document.querySelector('#search-result');if(box){box.style.display='block';box.innerHTML='<h2>検索条件</h2><p><strong>キーワード：</strong>'+escapeHtml(q||'指定なし')+'</p><p><strong>ジャンル：</strong>'+escapeHtml(g||'指定なし')+'</p><p class="muted">現在はサイト構成の確認用デモです。実在作品のデータベース連携は未実装です。実際の作品情報を確認・取得できるようになってから掲載します。</p>';}})}
- function escapeHtml(s){return s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+ const params=new URLSearchParams(location.search), g=params.get('genre')||'', q=params.get('q')||'';
+ const title=document.querySelector('#page-title'), subtitle=document.querySelector('#page-subtitle'), rt=document.querySelector('#result-title'), form=document.querySelector('#search-form');
+ if(g){document.querySelector('#genre').value=g;if(title)title.textContent='ジャンル：'+g;if(subtitle)subtitle.textContent='選択したジャンルの作品一覧';if(rt)rt.textContent='ジャンル：'+g+' の作品';}
+ if(q){document.querySelector('#q').value=q;if(title)title.textContent='検索結果：'+q;}
+ if(form)form.addEventListener('submit',e=>{e.preventDefault();const p=new URLSearchParams();let term=document.querySelector('#q').value.trim(),gen=document.querySelector('#genre').value;if(term)p.set('q',term);if(gen)p.set('genre',gen);location.href='search.html?'+p.toString();});
+ document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(x=>x.classList.remove('active'));b.classList.add('active');render(b.dataset.filter);if(rt)rt.textContent=(b.dataset.filter==='all'?'作品一覧':b.dataset.filter+'の作品')+'（表示見本）';}));
 });
