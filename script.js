@@ -12,3 +12,34 @@ document.addEventListener('DOMContentLoaded',()=>{
  if(form)form.addEventListener('submit',e=>{e.preventDefault();const p=new URLSearchParams();let term=document.querySelector('#q').value.trim(),gen=document.querySelector('#genre').value;if(term)p.set('q',term);if(gen)p.set('genre',gen);location.href='search.html?'+p.toString();});
  document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(x=>x.classList.remove('active'));b.classList.add('active');render(b.dataset.filter);if(rt)rt.textContent=(b.dataset.filter==='all'?'作品一覧':b.dataset.filter+'の作品')+'（表示見本）';}));
 });
+
+\n// 4.1.1: performer directory name search
+document.addEventListener("DOMContentLoaded", function () {
+  const input = document.getElementById("actorSearch");
+  const clear = document.getElementById("actorSearchClear");
+  const grid = document.getElementById("actorGrid");
+  if (!input || !grid) return;
+  const cards = Array.from(grid.querySelectorAll(".actor-card"));
+  const status = document.getElementById("actorSearchStatus");
+  const empty = document.getElementById("actorNoResults");
+  function filterActors() {
+    const query = input.value.trim().toLocaleLowerCase();
+    let visible = 0;
+    cards.forEach(function (card) {
+      const name = (card.dataset.actorName || card.textContent).toLocaleLowerCase();
+      const match = !query || name.includes(query);
+      card.hidden = !match;
+      if (match) visible++;
+    });
+    if (status) status.textContent = query
+      ? "検索結果：" + visible + "件"
+      : "出演者サンプル " + visible + "件を表示中";
+    if (empty) empty.hidden = visible !== 0;
+  }
+  input.addEventListener("input", filterActors);
+  if (clear) clear.addEventListener("click", function () {
+    input.value = "";
+    filterActors();
+    input.focus();
+  });
+});
