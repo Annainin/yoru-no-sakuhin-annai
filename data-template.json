@@ -1,0 +1,29 @@
+{
+  "_notice": "これは入力形式の見本です。架空のサンプル値であり、実在の出演者・作品情報ではありません。",
+  "actors": [
+    {
+      "id": "actor-id-from-official-data",
+      "name": "出演者名",
+      "image": "",
+      "profile": "公式情報で確認した紹介文。確認できない項目は空欄にします。",
+      "profileSource": "確認した公式情報の出典メモ",
+      "workIds": ["work-id-001"]
+    }
+  ],
+  "works": [
+    {
+      "id": "work-id-001",
+      "title": "公式データの商品タイトル",
+      "image": "公式APIが返す利用可能な画像URL",
+      "releaseDate": "YYYY-MM-DD",
+      "durationMinutes": null,
+      "genres": ["公式データのジャンル名"],
+      "actorIds": ["actor-id-from-official-data"],
+      "affiliateUrl": "公式APIが返すアフィリエイトURL",
+      "price": null,
+      "reviewAverage": null,
+      "reviewCount": null,
+      "lastChecked": "YYYY-MM-DD"
+    }
+  ]
+}

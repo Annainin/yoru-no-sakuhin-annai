@@ -101,3 +101,28 @@ function renderWorkDetail(){
  const specs=[["出演者",actor.name],["ジャンル",work.genre],["配信・発売日",work.date],["収録時間",work.duration]];document.getElementById("workSpecs").innerHTML=specs.map(([k,v])=>'<div><dt>'+esc(k)+'</dt><dd>'+esc(v)+'</dd></div>').join("");
 }
 document.addEventListener("DOMContentLoaded",()=>{renderActorProfile();renderWorkDetail();});
+
+// 4.3: searchable all-works directory built from the shared performer/work data.
+function renderAllWorksDirectory() {
+  const grid = document.getElementById('allWorksGrid');
+  if (!grid) return;
+  const input = document.getElementById('workSearch');
+  const clear = document.getElementById('workSearchClear');
+  const status = document.getElementById('workDirectoryStatus');
+  const empty = document.getElementById('workNoResults');
+  const all = [];
+  Object.entries(sampleActors).forEach(([actorId, actor]) => {
+    actor.works.forEach(work => all.push({ ...work, actorId, actorName: actor.name }));
+  });
+  function paint() {
+    const q = (input ? input.value : '').trim().toLocaleLowerCase();
+    const shown = all.filter(w => [w.title, w.actorName, w.genre, w.summary].join(' ').toLocaleLowerCase().includes(q));
+    grid.innerHTML = shown.map(w => '<a class="work" href="work-detail.html?id=' + encodeURIComponent(w.id) + '&actor=' + encodeURIComponent(w.actorId) + '"><div class="thumb"><span>作品画像</span><span class="sample">サンプル</span></div><div class="info"><h3>' + esc(w.title) + '</h3><p>' + esc(w.actorName) + ' · ' + esc(w.genre) + '</p></div></a>').join('');
+    if (status) status.textContent = q ? '検索結果 ' + shown.length + '件' : '作品一覧 ' + shown.length + '件';
+    if (empty) empty.hidden = shown.length !== 0;
+  }
+  if (input) input.addEventListener('input', paint);
+  if (clear) clear.addEventListener('click', () => { input.value = ''; paint(); input.focus(); });
+  paint();
+}
+document.addEventListener('DOMContentLoaded', renderAllWorksDirectory);
