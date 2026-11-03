@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded',()=>{
  document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(x=>x.classList.remove('active'));b.classList.add('active');render(b.dataset.filter);if(rt)rt.textContent=(b.dataset.filter==='all'?'作品一覧':b.dataset.filter+'の作品')+'（表示見本）';}));
 });
 
-\n// 4.1.1: performer directory name search
+
+// 4.1.2: performer directory name search
 document.addEventListener("DOMContentLoaded", function () {
   const input = document.getElementById("actorSearch");
   const clear = document.getElementById("actorSearchClear");
