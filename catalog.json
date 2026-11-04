@@ -1,5 +1,5 @@
 {
-  "version": "4.9",
+  "version": "4.7.7",
   "updatedAt": "2026-11-04",
   "performers": [
     {
@@ -19,7 +19,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://mioishikawa.bitfan.id/contents/menu/62333",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -29,7 +29,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -39,7 +39,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://cmore.jp/official/model-akari.html",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -49,7 +49,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://amatsuka.moe/",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -59,7 +59,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -69,7 +69,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -79,7 +79,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://www.duo-official.com/models/airi-kijima/",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -89,7 +89,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://cmore.jp/official/model-julia.html",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     },
     {
@@ -99,7 +99,7 @@
       "tags": [],
       "imageUrl": "",
       "sourceUrl": "https://miss.co.jp/",
-      "checkedAt": "2026-11-03",
+      "checkedAt": "2026-11-04",
       "imageUsageBasis": "画像なし（利用許諾未確認）"
     }
   ],
@@ -113,28 +113,37 @@
       "genres": [],
       "releaseDate": "2026-10-02",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-002",
-      "title": "巨根ピストン大絶頂 初体験の限界拡張おま●こ快感 石川澪",
+      "title": "カラミざかり同窓会編 石川澪",
       "performerIds": [
         "performer-002"
       ],
-      "genres": [],
-      "releaseDate": "2026-07-31",
-      "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "genres": [
+        "美少女",
+        "寝取り・寝取られ・ＮＴＲ",
+        "ドラマ",
+        "顔射",
+        "原作コラボ"
+      ],
+      "releaseDate": "2026-05-05",
+      "duration": "120分",
+      "summary": "MOODYZ公式掲載作品。シリーズ累計販売数800万部の「カラミざかり」同窓会編を、石川澪主演で実写化。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
+      "sourceUrl": "https://moodyz.com/works/detail/MIMK267?page_from=series&sys_code=11082",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "verificationStatus": "verified_official",
+      "verificationNote": "MOODYZ公式個別商品ページで作品名、出演者（石川澪）、発売日（2026年5月5日）、品番（DVD MIMK267）、収録時間（120分）を確認。旧登録作品は品番・発売日の対応が未確認のため採用せず、公式確認できた本作品に差し替え。FANZA商品リンクは公式ページ上に存在するが、現カタログではアフィリエイトURLを推測設定せず空欄を維持。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIMK267?page_from=series&sys_code=11082"
+      ]
     },
     {
       "id": "work-003",
@@ -145,12 +154,11 @@
       "genres": [],
       "releaseDate": "2026-08-28",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-004",
@@ -161,44 +169,51 @@
       "genres": [],
       "releaseDate": "2026-10-02",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1057477",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-005",
-      "title": "乳首ギンギンのけ反りギュンッ！ポルチオめり込む快感に強●アクメ スリム美少女をイキ壊すデカチン激突き50overSEX",
+      "title": "訪問先の異常なワケアリ住人に卑猥ランジェリーを着させられ監禁調教にイキ堕ちた地味メガネ美乳介護士 八木奈々",
       "performerIds": [
         "performer-003"
       ],
       "genres": [],
-      "releaseDate": "2026-09-25",
+      "releaseDate": "2026-07-31",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品名・出演者・配信開始日・品番は第三者作品データベースの掲載情報で照合。FANZA個別商品ページおよびメーカー公式ページでの再確認は未了。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1057477",
+      "sourceUrl": "https://seesaawiki.jp/av_name/d/MIDA-732",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "MIDA-732",
+      "maker": "ムーディーズ",
+      "label": "MOODYZ DIVA",
+      "verificationStatus": "third_party_catalog_crosschecked",
+      "verificationNote": "AVWikiDBの作品ページに品番MIDA-732、出演者・作品名・配信開始日2026-07-31・メーカー／レーベルの記載あり。FANZA個別商品ページとメーカー公式ページでの照合は未了。"
     },
     {
       "id": "work-006",
-      "title": "世界で一番大っ嫌いな上司の粘着セクハラ性交に何度も何度もイカされ続け…卑劣ピストンに屈辱の快楽堕ちしたワタシたち…8時間BEST",
+      "title": "〖中出し特化ASMR〗 耳からトロける甘い妊娠おねだり淫語と受精おま●こ卑猥音「ぐちゅっびゅるっどぷっ…ドロり！」 朝から夜まで10発以上子宮に注ぐ妊娠願望彼女と中出し同棲生活",
       "performerIds": [
         "performer-003"
       ],
       "genres": [],
-      "releaseDate": "2026-02-13",
+      "releaseDate": "2026-11-03",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1057477",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA846",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "MIDA846",
+      "maker": "ムーディーズ",
+      "label": "MOODYZ DIVA",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページに正式タイトル、出演者・八木奈々、発売日2026-11-03、DVD品番MIDA846が同一ページに掲載。"
     },
     {
       "id": "work-007",
@@ -209,28 +224,31 @@
       "genres": [],
       "releaseDate": "2026-10-30",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-008",
-      "title": "国宝顔フェティシズム 楓カレンの美貌に感動しながらシコりたいー。",
+      "title": "M調教×相部屋NTR 家族旅行中に夫は急務でトンボ帰りし二人きりマゾ性癖を見抜かれた美人妻は義父に性的支配され…。",
       "performerIds": [
         "performer-007"
       ],
       "genres": [],
-      "releaseDate": "2026-10-02",
+      "releaseDate": "2026-12-01",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
+      "sourceUrl": "https://ideapocket.com/works/detail/IDPC013",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "IDPC013",
+      "maker": "アイデアポケット",
+      "label": "ティッシュ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページに正式タイトル、出演者・楓カレン、発売日2026-12-01、DVD品番IDPC013が同一ページに掲載。発売前の予約・近日発売作品として扱う。"
     },
     {
       "id": "work-010",
@@ -241,12 +259,11 @@
       "genres": [],
       "releaseDate": "2026-09-25",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-011",
@@ -255,46 +272,58 @@
         "performer-006"
       ],
       "genres": [],
-      "releaseDate": "2026-09-04",
+      "releaseDate": "2026-09-08",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPOK034",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "IPOK034",
+      "maker": "アイデアポケット",
+      "label": "アイデアポケットBEST",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページに作品名、出演者一覧（相沢みなみを含む）、発売日2026-09-08、DVD品番IPOK034が掲載。"
     },
     {
       "id": "work-012",
-      "title": "放心アクメしても子宮をグイグイ突きまくる！もうイッてるってばぁ！状態でも突き上げピストンBEST",
+      "title": "お願いしてもヤリたい高嶺の美女を逆にオナホ扱い 圧倒的美顔ぞんざいフェラチオ 130コーナー",
       "performerIds": [
         "performer-006"
       ],
       "genres": [],
-      "releaseDate": "2026-06-26",
+      "releaseDate": "2026-05-12",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPOK019",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "IPOK019",
+      "maker": "アイデアポケット",
+      "label": "アイデアポケットBEST",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページに作品名、出演者一覧（相沢みなみを含む）、発売日2026-05-12、DVD品番IPOK019が掲載。"
     },
     {
       "id": "work-013",
-      "title": "お互いの恋人に浮気された女友達とボクの傷とアソコの舐め合いセックスが良すぎて泥沼の様相を呈してきました。明里つむぎ",
+      "title": "専属8年間の奇跡、軌跡 IDEAPOCKET COMPLETE BEST 全87作品 46時間 12枚組 明里つむぎ",
       "performerIds": [
         "performer-004"
       ],
       "genres": [],
-      "releaseDate": "2026-10-22",
+      "releaseDate": "2026-02-10",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "同一出演者の別作品へ差し替え。商品情報の確認範囲は verificationNote を参照。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1037663",
+      "sourceUrl": "https://www.suruga-ya.jp/product/detail/332103274",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "IPOK-008",
+      "maker": "アイデアポケット",
+      "label": "アイデアポケットBEST",
+      "verificationStatus": "retailer_product_page_crosschecked",
+      "verificationNote": "駿河屋の商品詳細で出演者・メーカー・発売日・型番を確認。FANZA個別商品ページとメーカー公式での再確認は未了。"
     },
     {
       "id": "work-014",
@@ -305,12 +334,21 @@
       "genres": [],
       "releaseDate": "2026-09-17",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "FNS-248・明里つむぎ・2026-09-17の一致を複数の第三者情報で確認。公式個別商品ページ未確認。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1037663",
+      "sourceUrl": "https://mediaworldakiba.livedoor.blog/archives/cat_50030160.html?p=2",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "FNS-248",
+      "maker": "FALENO",
+      "label": "FALENO",
+      "verificationStatus": "third_party_multi_source_crosschecked",
+      "verificationNote": "イベント対象商品情報にFNS-248・対象タイトル・明里つむぎ・9/17発売が記載。別イベント情報でも同品番・出演者・発売日が一致し、レーベル別作品データベースでもFNS-248／Tsumugi Akari／2026-09-17を確認。複数ソースで整合するが、FALENO公式個別商品ページを直接確認できていないため「メーカー公式確認済み」にはしない。",
+      "verificationSources": [
+        "https://maharaja-event.com/event/event-8169/",
+        "https://av-event.jp/event/41083/",
+        "https://subtitletrans.com/database/studio/faleno"
+      ]
     },
     {
       "id": "work-016",
@@ -321,44 +359,48 @@
       "genres": [],
       "releaseDate": "2026-09-24",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1004672",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-017",
-      "title": "今が一番エロくて美しい。Perfect BODY JULIA痴女ヘブンベスト",
+      "title": "Julia18 翠緑のエレガンス JULIA",
       "performerIds": [
         "performer-009"
       ],
       "genres": [],
-      "releaseDate": "2026-09-18",
+      "releaseDate": "2026-09-24",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1004672",
+      "sourceUrl": "https://rebecca-web.com/actor.php?id=1070",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "REBD-1066",
+      "maker": "REbecca",
+      "verificationStatus": "official_maker_actor_and_sales_lists",
+      "verificationNote": "REbecca公式JULIA作品一覧とDVD/BD発売情報一覧に作品名・出演者・発売日2026-09-24を確認。品番REBD-1066はAVWikiDBの品番一覧で補完（メーカー公式の個別商品詳細は未確認）。"
     },
     {
       "id": "work-018",
-      "title": "寝取り淫語と顔面パイズリ診断で押し付けがましいけどおっぱい治療する変態女医の勃起改善クリニック20発 JULIA",
+      "title": "REbecca STARS13 -The marvels-",
       "performerIds": [
         "performer-009"
       ],
       "genres": [],
-      "releaseDate": "2026-07-31",
+      "releaseDate": "2026-02-19",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1004672",
+      "sourceUrl": "https://rebecca-web.com/actor.php?id=1070",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "maker": "REbecca",
+      "verificationStatus": "official_maker_actor_list",
+      "verificationNote": "REbecca公式JULIA作品一覧に作品名・出演者JULIA・発売日2026-02-19を確認。公式一覧に品番記載がないため品番は空欄。"
     },
     {
       "id": "work-019",
@@ -369,44 +411,51 @@
       "genres": [],
       "releaseDate": "2026-09-25",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://openfans.jp/fanza-database/actress/1030262",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-020",
-      "title": "S級美人が敗北の「もうダメェ！」 絶頂直後の敏感マ●コひっ捕え 快楽上乗せ追撃ピストン100本番",
+      "title": "〖※観覧注意〗〖※ヌキ過ぎ注意〗絶頂を超えた更に先、イキまくり限界ピストン！恍惚の過去最大トランスFUCK 三上悠亜",
       "performerIds": [
         "performer-010"
       ],
       "genres": [],
-      "releaseDate": "2026-09-18",
+      "releaseDate": "2022-09-09",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "同一出演者の別作品へ差し替え。商品情報の確認範囲は verificationNote を参照。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1030262",
+      "sourceUrl": "https://openfans.jp/articles/creator/mikami-yu-a",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "SSIS-509",
+      "maker": "エスワン ナンバーワンスタイル",
+      "label": "S1 NO.1 STYLE",
+      "verificationStatus": "fanza_catalog_reference_crosschecked",
+      "verificationNote": "OpenFansの記事が公式FANZA商品情報として品番・配信開始日・出演者を参照。メーカー公式の個別ページは未確認。"
     },
     {
       "id": "work-021",
-      "title": "こんな綺麗な女性から 全身ベロベロキッス 美しすぎる舐め痴女から 40発ヌカれちゃう！ 8時間スペシャルベスト",
+      "title": "同棲 LOVE STORY 三上悠亜",
       "performerIds": [
         "performer-010"
       ],
       "genres": [],
-      "releaseDate": "2026-09-04",
+      "releaseDate": "2022-07-08",
       "duration": "",
-      "summary": "第三者の出演者一覧ページを出典とする暫定登録。個別作品ページでの作品名・発売日の照合は未完了。",
+      "summary": "同一出演者の別作品へ差し替え。商品情報の確認範囲は verificationNote を参照。",
       "imageUrl": "",
       "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1030262",
+      "sourceUrl": "https://openfans.jp/articles/creator/mikami-yu-a",
       "checkedAt": "2026-11-04",
-      "verificationStatus": "provisional_listing_only"
+      "productCode": "SSIS-448",
+      "maker": "エスワン ナンバーワンスタイル",
+      "label": "S1 NO.1 STYLE",
+      "verificationStatus": "fanza_catalog_reference_crosschecked",
+      "verificationNote": "OpenFansの記事が公式FANZA商品情報として品番・配信開始日・出演者を参照。メーカー公式の個別ページは未確認。"
     },
     {
       "id": "work-023",
@@ -417,12 +466,11 @@
       "genres": [],
       "releaseDate": "2026-10-27",
       "duration": "",
-      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "official_list_verified"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-024",
@@ -433,12 +481,11 @@
       "genres": [],
       "releaseDate": "2026-09-22",
       "duration": "",
-      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "official_list_verified"
+      "checkedAt": "2026-11-04"
     },
     {
       "id": "work-022",
@@ -449,44 +496,11 @@
       "genres": [],
       "releaseDate": "2026-08-25",
       "duration": "",
-      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
+      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
       "imageUrl": "",
       "affiliateUrl": "",
       "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "official_list_verified"
-    },
-    {
-      "id": "work-025",
-      "title": "出張先、二人きりの温泉旅館 僕を慕う圧倒的美人な後輩に迫られたら寝取られても仕方がない 河北彩花",
-      "performerIds": [
-        "performer-001"
-      ],
-      "genres": [],
-      "releaseDate": "2026-07-28",
-      "duration": "",
-      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "official_list_verified"
-    },
-    {
-      "id": "work-026",
-      "title": "河北彩花の尊い美顔を心おきなく拝みたい。",
-      "performerIds": [
-        "performer-001"
-      ],
-      "genres": [],
-      "releaseDate": "2026-06-23",
-      "duration": "",
-      "summary": "所属事務所の公式新着リリース欄で作品名・発売日を確認。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "official_list_verified"
+      "checkedAt": "2026-11-04"
     }
   ]
 }
