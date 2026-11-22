@@ -1,506 +1,953 @@
 {
-  "version": "4.7.7",
-  "updatedAt": "2026-11-04",
+  "version": "6.3.11",
+  "updatedAt": "2026-11-22",
+  "description": "メーカー公式個別商品ページで出演者・発売日・品番・収録時間を照合できた作品を掲載。未確認候補や総集編等は推測で加えず、精査台帳に判定理由を記録。",
   "performers": [
     {
-      "id": "performer-001",
-      "name": "河北彩花",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
-    },
-    {
-      "id": "performer-002",
+      "id": "ishikawa-mio",
       "name": "石川澪",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://mioishikawa.bitfan.id/contents/menu/62333",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA762",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "sourceType": "manufacturer_product_page",
+      "catalogStatus": "has_verified_works",
+      "note": "石川澪はMOODYZ公式個別商品ページで確認。掲載中の3作品は出演者・発売日・品番・収録時間を個別ページで照合しています。 2026年11月22日に今回の対象作品をメーカー公式個別商品ページで再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIMK267",
+        "https://moodyz.com/works/detail/MIDA837",
+        "https://moodyz.com/works/detail/MIDA762"
+      ]
     },
     {
-      "id": "performer-003",
+      "id": "yagi-nana",
       "name": "八木奈々",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://www.t-powers.co.jp/talent/",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA691",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "sourceType": "manufacturer_product_page",
+      "catalogStatus": "has_verified_works",
+      "note": "八木奈々はMOODYZ公式個別商品ページで確認。掲載中の3作品は出演者・発売日・品番・収録時間を個別ページで照合しています。 2026年11月22日に今回の対象作品をメーカー公式個別商品ページで再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA846",
+        "https://moodyz.com/works/detail/MIDA807",
+        "https://moodyz.com/works/detail/MIDA691"
+      ]
     },
     {
-      "id": "performer-004",
-      "name": "明里つむぎ",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://cmore.jp/official/model-akari.html",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
+      "id": "miyashita-rena",
+      "name": "宮下玲奈",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA368?page_from=actress&sys_code=72242",
+      "sourceLabel": "メーカー公式個別商品ページ",
+      "sourceType": "manufacturer_product_page",
+      "catalogStatus": "has_verified_works",
+      "note": "宮下玲奈のメーカー公式個別商品ページを照合した作品を3件掲載しています。作品ごとの発売日・品番・収録時間は各詳細ページから出典元を確認できます。 2026年11月22日に今回の対象作品をメーカー公式個別商品ページで再照合しました。 2026年11月22日に今回対象のメーカー公式個別商品ページを再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MDVR451",
+        "https://moodyz.com/works/detail/MDVR398?page_from=actress&sys_code=72242",
+        "https://moodyz.com/works/detail/MIDA368?page_from=actress&sys_code=72242",
+        "https://moodyz.com/works/detail/MIDA368"
+      ]
     },
     {
-      "id": "performer-005",
-      "name": "天使もえ",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://amatsuka.moe/",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
-    },
-    {
-      "id": "performer-006",
-      "name": "相沢みなみ",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
-    },
-    {
-      "id": "performer-007",
-      "name": "楓カレン",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
-    },
-    {
-      "id": "performer-008",
-      "name": "希島あいり",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://www.duo-official.com/models/airi-kijima/",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
-    },
-    {
-      "id": "performer-009",
+      "id": "julia",
       "name": "JULIA",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://cmore.jp/official/model-julia.html",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
+      "sourceUrl": "https://rebecca-web.com/actor.php?id=1070",
+      "sourceLabel": "REbecca公式出演者ページ",
+      "sourceType": "manufacturer_profile",
+      "catalogStatus": "has_verified_works",
+      "note": "REbecca公式プロフィールおよび個別商品ページで確認。 2026年11月22日に今回対象のメーカー公式個別商品ページを再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://rebecca-web.com/actor.php?id=1070",
+        "https://rebecca-web.com/detail.php?id=rebd_980",
+        "https://rebecca-web.com/detail.php?id=rebd_876",
+        "https://rebecca-web.com/detail.php?id=rebd_789"
+      ]
     },
     {
-      "id": "performer-010",
-      "name": "三上悠亜",
-      "profile": "",
-      "tags": [],
-      "imageUrl": "",
-      "sourceUrl": "https://miss.co.jp/",
-      "checkedAt": "2026-11-04",
-      "imageUsageBasis": "画像なし（利用許諾未確認）"
+      "id": "ishihara-nozomi",
+      "name": "石原希望",
+      "sourceUrl": "https://moodyz.com/works/detail/MDVR439",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "sourceType": "manufacturer_product_page",
+      "catalogStatus": "has_verified_works",
+      "note": "石原希望はMOODYZ公式個別商品ページで確認。掲載中の3作品は出演者・発売日・品番・収録時間を個別ページで照合しています。別候補のうち公式個別ページ未照合のものは掲載していません。 2026年11月22日に今回の対象作品をメーカー公式個別商品ページで再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MDVR439",
+        "https://moodyz.com/works/detail/MIDA671",
+        "https://moodyz.com/works/detail/MIDA785"
+      ]
+    },
+    {
+      "id": "kaede-karen",
+      "name": "楓カレン",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZZ677?page_from=actress&sys_code=31460",
+      "sourceLabel": "メーカー公式個別商品ページ",
+      "sourceType": "manufacturer_product_page",
+      "catalogStatus": "has_verified_works",
+      "note": "楓カレンのメーカー公式個別商品ページを照合した作品を3件掲載しています。作品ごとの発売日・品番・収録時間は各詳細ページから出典元を確認できます。 2026年11月22日に今回の対象作品をメーカー公式個別商品ページで再照合しました。 2026年11月22日に今回対象のメーカー公式個別商品ページを再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZZ961",
+        "https://ideapocket.com/works/detail/IPZZ778",
+        "https://ideapocket.com/works/detail/IPZZ677?page_from=actress&sys_code=31460",
+        "https://ideapocket.com/works/detail/IPZZ677"
+      ]
+    },
+    {
+      "id": "kawakita-saika",
+      "name": "河北彩花",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SNOS371",
+      "sourceLabel": "S1公式個別商品ページ",
+      "sourceType": "manufacturer_product_page",
+      "catalogStatus": "has_verified_works",
+      "note": "河北彩花はS1公式個別商品ページで確認。掲載中の4作品は出演者・発売日・品番・収録時間を個別ページで照合しています。 2026年11月22日に今回の対象作品をメーカー公式個別商品ページで再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://s1s1s1.com/works/detail/SNOS377",
+        "https://s1s1s1.com/works/detail/SNOS371",
+        "https://s1s1s1.com/works/detail/SNOS320",
+        "https://s1s1s1.com/works/detail/SNOS275"
+      ]
+    },
+    {
+      "id": "aika-mirei",
+      "name": "愛華みれい",
+      "sourceUrl": "https://ideapocket.com/actress/detail/70718",
+      "sourceLabel": "IDEAPOCKET公式出演者ページ",
+      "sourceType": "manufacturer_profile",
+      "catalogStatus": "has_verified_works",
+      "note": "IDEAPOCKET公式出演者ページで氏名を確認。掲載中のIPZ652・IPZ671・IPZ686は各メーカー公式個別商品ページで出演者・発売日・品番・収録時間・レーベルを照合済み。総集編は単体作品数に含めていません。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://ideapocket.com/actress/detail/70718",
+        "https://ideapocket.com/works/detail/IPZ652?page_from=actress&sys_code=27425",
+        "https://ideapocket.com/works/detail/IPZ671?page_from=actress&sys_code=27425",
+        "https://ideapocket.com/works/detail/IPZ686?page_from=actress&sys_code=27425"
+      ]
+    },
+    {
+      "id": "aisaka-haruna",
+      "name": "逢坂はるな",
+      "sourceUrl": "https://ideapocket.com/actress/detail/68268",
+      "sourceLabel": "IDEAPOCKET公式出演者ページ",
+      "sourceType": "manufacturer_profile",
+      "catalogStatus": "has_verified_works",
+      "note": "IDEAPOCKET公式出演者ページで氏名を確認。掲載中のIPZ418・IPZ450・IPZ467は各メーカー公式個別商品ページで出演者・発売日・品番・収録時間・レーベルを照合済み。総集編は単体作品数に含めていません。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://ideapocket.com/actress/detail/68268",
+        "https://ideapocket.com/works/detail/IPZ418?page_from=actress&sys_code=20811",
+        "https://ideapocket.com/works/detail/IPZ450?page_from=actress&sys_code=20811",
+        "https://ideapocket.com/works/detail/IPZ467?page_from=actress&sys_code=20811"
+      ]
+    },
+    {
+      "id": "nagi-hikaru",
+      "name": "凪ひかる",
+      "sourceUrl": "https://s1s1s1.com/actress/detail/827801?page=9",
+      "sourceLabel": "S1公式出演者プロフィール・作品一覧",
+      "sourceType": "manufacturer_performer_works_listing",
+      "catalogStatus": "has_listed_works_with_mixed_verification_levels",
+      "note": "掲載作品は3件。うちSSIS870は公式個別商品ページで主要項目を確認済み。SSIS817・SSIS784はS1公式出演者作品一覧の個別商品リンクと公式発売日一覧を照合していますが、個別商品ページの詳細本文は取得できていません。SSIS784の収録時間は資料間で差があるため未記載です。 2026年11月22日に今回対象のメーカー公式個別商品ページを再照合しました。",
+      "checkedAt": "2026-11-22",
+      "verificationSources": [
+        "https://s1s1s1.com/actress/detail/827801?page=9",
+        "https://s1s1s1.com/works/date",
+        "https://s1s1s1.com/works/detail/SSIS870"
+      ]
     }
   ],
   "works": [
     {
-      "id": "work-001",
-      "title": "「何でもしてアゲル…大好きだから」 変態性癖のボクの願いを何でも聞いてくれて （汗・唾液・おしっこ） とことん体液飲ませてくれる全肯定彼女 石川澪",
+      "id": "work-mdvr451",
+      "displayTitle": "結婚相談所を舞台にしたVR作品",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-002"
+        "miyashita-rena"
       ],
-      "genres": [],
-      "releaseDate": "2026-10-02",
-      "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
-      "checkedAt": "2026-11-04"
+      "releaseDate": "2026-11-06",
+      "duration": "72分",
+      "productCode": "MDVR451",
+      "maker": "MOODYZ",
+      "label": "MOODYZ VR",
+      "workType": "vr",
+      "format": "VR",
+      "sourceUrl": "https://moodyz.com/works/detail/MDVR451",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "公式個別商品ページで出演者、発売日、品番、収録時間、VR専用の表示を照合。表示タイトルは正式タイトルの転載を避けた編集部による短縮表記です。",
+      "checkedAt": "2026-11-08",
+      "editorialSummary": "宮下玲奈出演のMOODYZ VR作品。公式ページに2026年11月6日発売、品番MDVR451、収録時間72分、VR専用の表示が掲載されています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MDVR451"
+      ]
     },
     {
-      "id": "work-002",
-      "title": "カラミざかり同窓会編 石川澪",
+      "id": "work-mida846",
+      "displayTitle": "八木奈々の同棲テーマASMR作品",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-002"
+        "yagi-nana"
       ],
-      "genres": [
-        "美少女",
-        "寝取り・寝取られ・ＮＴＲ",
-        "ドラマ",
-        "顔射",
-        "原作コラボ"
+      "releaseDate": "2026-11-03",
+      "duration": "180分",
+      "productCode": "MIDA846",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA846",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで正式タイトル、出演者、発売日、DVD品番、収録時間を同一ページで照合。表示タイトルは正式な長文タイトルを転載しない編集部による短縮表記です。",
+      "checkedAt": "2026-11-08",
+      "editorialSummary": "八木奈々出演のMOODYZ作品。メーカー公式個別商品ページでASMRを含む作品タイトル、発売日2026年11月3日、品番MIDA846、収録時間180分を確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA846"
+      ]
+    },
+    {
+      "id": "work-mdvr439",
+      "displayTitle": "石原希望の8K・ハメ撮りVR作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "ishihara-nozomi"
+      ],
+      "releaseDate": "2026-10-09",
+      "duration": "65分",
+      "productCode": "MDVR439",
+      "maker": "MOODYZ",
+      "label": "MOODYZ VR",
+      "workType": "vr",
+      "format": "VR",
+      "sourceUrl": "https://moodyz.com/works/detail/MDVR439",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで出演者・発売日・品番・収録時間・VR専用表示を照合。表示タイトルは編集部による短縮表記です。",
+      "checkedAt": "2026-11-10",
+      "editorialSummary": "石原希望出演のMOODYZ VR作品。8K撮影とハメ撮り形式を特徴とする企画です。公式個別ページで発売日2026年10月9日、品番MDVR439、収録時間65分、VR専用表示を確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MDVR439"
+      ]
+    },
+    {
+      "id": "work-mida837",
+      "displayTitle": "石川澪の主観・恋人テーマ作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "ishikawa-mio"
+      ],
+      "releaseDate": "2026-10-06",
+      "duration": "150分",
+      "productCode": "MIDA837",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA837",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで正式タイトル、出演者、発売日、DVD品番、収録時間、主観ジャンルを同一ページで照合。",
+      "checkedAt": "2026-11-08",
+      "editorialSummary": "石川澪出演のMOODYZ作品。公式個別商品ページで全編主観アングルの作品であること、発売日2026年10月6日、品番MIDA837、収録時間150分を確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA837"
+      ]
+    },
+    {
+      "id": "work-mida807",
+      "displayTitle": "八木奈々の「解禁」企画作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "yagi-nana"
+      ],
+      "releaseDate": "2026-10-06",
+      "duration": "200分",
+      "durationMinutes": 200,
+      "productCode": "MIDA807",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA807",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで正式タイトル、出演者・八木奈々、発売日2026年10月6日、DVD品番MIDA807、収録時間200分を同一ページで照合。旧記録の発売日2026-10-02は誤りのため、公式表示の2026-10-06を採用。表示タイトルは編集部による短縮表記です。",
+      "checkedAt": "2026-11-08",
+      "editorialSummary": "八木奈々出演のMOODYZ作品。公式個別商品ページで発売日2026年10月6日、品番MIDA807、収録時間200分を確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA807"
+      ]
+    },
+    {
+      "id": "work-ipzz961",
+      "displayTitle": "楓カレンの美貌に焦点を当てた作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "kaede-karen"
+      ],
+      "releaseDate": "2026-10-06",
+      "duration": "120分",
+      "productCode": "IPZZ961",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZZ961",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで出演者・発売日・DVD品番・収録時間を照合。表示タイトルは正式タイトルの転載を避けた編集部による短縮表記です。",
+      "checkedAt": "2026-11-08",
+      "editorialSummary": "楓カレン出演のIDEAPOCKET作品。公式個別商品ページで2026年10月6日発売、品番IPZZ961、収録時間120分を確認しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZZ961"
+      ]
+    },
+    {
+      "id": "work-rebd1066",
+      "displayTitle": "Julia18 翠緑のエレガンス",
+      "titleKind": "official_short_title",
+      "performerIds": [
+        "julia"
+      ],
+      "releaseDate": "2026-09-24",
+      "duration": "88分",
+      "productCode": "REBD-1066",
+      "maker": "REbecca",
+      "label": "S級アイドル",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://rebecca-web.com/detail.php?id=rebd_1066",
+      "sourceLabel": "REbecca公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "REbecca公式個別商品ページでJULIAの出演、DVD/BD発売日2026年9月24日、DVD品番REBD-1066、収録時間88分、レーベルS級アイドルを照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "REbeccaのJULIA出演シリーズ第18作。DVD発売日、DVD品番、収録時間を公式個別ページで確認しています。",
+      "verificationSources": [
+        "https://rebecca-web.com/detail.php?id=rebd_1066"
+      ]
+    },
+    {
+      "id": "work-snos377",
+      "displayTitle": "恋人との合意を前提にしたSM演出作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "kawakita-saika"
+      ],
+      "releaseDate": "2026-09-22",
+      "duration": "160分",
+      "productCode": "SNOS377",
+      "maker": "S1",
+      "label": "S1",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SNOS377",
+      "sourceLabel": "S1公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "S1公式個別商品ページで河北彩花の出演、DVD発売日2026年9月22日、DVD品番SNOS377、収録時間160分を照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "河北彩花出演のS1作品。公式の商品説明では、双方の信頼と合意を前提としたSM設定として紹介されています。発売日・品番・収録時間は個別商品ページで確認しています。",
+      "verificationSources": [
+        "https://s1s1s1.com/works/detail/SNOS377"
+      ]
+    },
+    {
+      "id": "work-mida785",
+      "displayTitle": "石原希望の美白ボディ企画作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "ishihara-nozomi"
+      ],
+      "releaseDate": "2026-09-15",
+      "duration": "150分",
+      "productCode": "MIDA785",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA785",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで石原希望の出演、DVD発売日2026年9月15日、DVD品番MIDA785、収録時間150分、レーベルMOODYZ DIVAを照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "石原希望出演のMOODYZ作品。美容・ボディ表現を前面にした企画です。公式個別ページで発売日2026年9月15日、品番MIDA785、収録時間150分を確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA785"
+      ]
+    },
+    {
+      "id": "work-snos371",
+      "displayTitle": "河北彩花のドキュメンタリー企画",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "kawakita-saika"
+      ],
+      "releaseDate": "2026-08-25",
+      "duration": "120分",
+      "productCode": "SNOS371",
+      "maker": "S1",
+      "label": "S1",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SNOS371",
+      "sourceLabel": "S1公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "S1公式個別商品ページで河北彩花の出演、DVD発売日2026年8月25日、DVD品番SNOS371、収録時間120分を照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "河北彩花出演のS1作品。出演者本人の人柄や交流を軸にしたドキュメンタリー形式です。公式個別ページで発売日2026年8月25日、品番SNOS371、収録時間120分を確認しています。",
+      "verificationSources": [
+        "https://s1s1s1.com/works/detail/SNOS371"
+      ]
+    },
+    {
+      "id": "work-mida762",
+      "displayTitle": "石川澪の新しい挑戦を描く作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "ishikawa-mio"
+      ],
+      "releaseDate": "2026-08-04",
+      "duration": "120分",
+      "productCode": "MIDA762",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA762",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで石川澪の出演、DVD発売日2026年8月4日、DVD品番MIDA762、収録時間120分、レーベルMOODYZ DIVAを照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "石川澪出演のMOODYZ作品。2026年8月4日発売、品番MIDA762、収録時間120分。出演者・発売日・品番・収録時間をメーカー公式個別ページで照合しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA762"
+      ]
+    },
+    {
+      "id": "work-snos320",
+      "displayTitle": "河北彩花の温泉旅館ドラマ作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "kawakita-saika"
+      ],
+      "releaseDate": "2026-07-28",
+      "duration": "120分",
+      "productCode": "SNOS320",
+      "maker": "S1",
+      "label": "S1",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SNOS320",
+      "sourceLabel": "S1公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "S1公式個別商品ページで河北彩花の出演、DVD発売日2026年7月28日、DVD品番SNOS320、収録時間120分を照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "河北彩花出演のS1作品。出張先の温泉旅館を舞台にした人間関係のドラマ企画です。公式個別ページで発売日2026年7月28日、品番SNOS320、収録時間120分を確認しています。",
+      "verificationSources": [
+        "https://s1s1s1.com/works/detail/SNOS320"
+      ]
+    },
+    {
+      "id": "work-mida691",
+      "displayTitle": "八木奈々のキスエステ企画",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "yagi-nana"
+      ],
+      "releaseDate": "2026-07-07",
+      "duration": "180分",
+      "productCode": "MIDA691",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA691",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで八木奈々の出演、発売日2026年7月7日、DVD品番MIDA691、収録時間180分、レーベルMOODYZ DIVAを同一ページで照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "八木奈々出演のMOODYZ作品。公式ページで発売日2026年7月7日、品番MIDA691、収録時間180分、レーベルMOODYZ DIVAを確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA691"
+      ]
+    },
+    {
+      "id": "work-snos275",
+      "displayTitle": "河北彩花の美顔テーマ作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "kawakita-saika"
+      ],
+      "releaseDate": "2026-06-23",
+      "duration": "150分",
+      "productCode": "SNOS275",
+      "maker": "S1",
+      "label": "S1",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SNOS275",
+      "sourceLabel": "S1公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "S1公式個別商品ページで河北彩花の出演、発売日2026年6月23日、DVD品番SNOS275、収録時間150分を照合。S1公式の2026年6月23日発売作品一覧にも掲載されています。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "河北彩花出演のS1作品。公式ページで発売日2026年6月23日、品番SNOS275、収録時間150分を確認しています。",
+      "verificationSources": [
+        "https://s1s1s1.com/works/detail/SNOS275"
+      ]
+    },
+    {
+      "id": "work-mida671",
+      "displayTitle": "石原希望と過ごす温泉旅行テーマ",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "ishihara-nozomi"
+      ],
+      "releaseDate": "2026-06-16",
+      "duration": "150分",
+      "productCode": "MIDA671",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA671",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで石原希望の出演、発売日2026年6月16日、DVD品番MIDA671、収録時間150分、レーベルMOODYZ DIVAを同一ページで照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "石原希望出演のMOODYZ作品。公式ページで発売日2026年6月16日、品番MIDA671、収録時間150分、レーベルMOODYZ DIVAを確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA671"
+      ]
+    },
+    {
+      "id": "work-mimk267",
+      "displayTitle": "カラミざかり同窓会編",
+      "titleKind": "official_short_title",
+      "performerIds": [
+        "ishikawa-mio"
       ],
       "releaseDate": "2026-05-05",
       "duration": "120分",
-      "summary": "MOODYZ公式掲載作品。シリーズ累計販売数800万部の「カラミざかり」同窓会編を、石川澪主演で実写化。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://moodyz.com/works/detail/MIMK267?page_from=series&sys_code=11082",
-      "checkedAt": "2026-11-04",
-      "verificationStatus": "verified_official",
-      "verificationNote": "MOODYZ公式個別商品ページで作品名、出演者（石川澪）、発売日（2026年5月5日）、品番（DVD MIMK267）、収録時間（120分）を確認。旧登録作品は品番・発売日の対応が未確認のため採用せず、公式確認できた本作品に差し替え。FANZA商品リンクは公式ページ上に存在するが、現カタログではアフィリエイトURLを推測設定せず空欄を維持。",
+      "productCode": "MIMK267",
+      "maker": "MOODYZ",
+      "label": "まんきつ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIMK267",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで石川澪の出演、発売日2026年5月5日、DVD品番MIMK267、収録時間120分、レーベル「まんきつ」を同一ページで照合。正式作品名は公式表示を参照できます。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "石川澪主演の「カラミざかり同窓会編」。公式ページで発売日2026年5月5日、品番MIMK267、収録時間120分、レーベル「まんきつ」を確認しています。",
       "verificationSources": [
-        "https://moodyz.com/works/detail/MIMK267?page_from=series&sys_code=11082"
+        "https://moodyz.com/works/detail/MIMK267"
       ]
     },
     {
-      "id": "work-003",
-      "title": "ここを責められると感じちゃう女体・性感帯図鑑 全部、まるはだか全裸わいせつセクハラ健康診断 石川澪",
+      "id": "work-ipzz778",
+      "displayTitle": "楓カレン出演の家庭教師テーマ作品",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-002"
+        "kaede-karen"
       ],
-      "genres": [],
-      "releaseDate": "2026-08-28",
-      "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1072127",
-      "checkedAt": "2026-11-04"
-    },
-    {
-      "id": "work-004",
-      "title": "解禁 八木奈々 10年に1人のスター 生まれて初めての中出し性交",
-      "performerIds": [
-        "performer-003"
-      ],
-      "genres": [],
-      "releaseDate": "2026-10-02",
-      "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1057477",
-      "checkedAt": "2026-11-04"
-    },
-    {
-      "id": "work-005",
-      "title": "訪問先の異常なワケアリ住人に卑猥ランジェリーを着させられ監禁調教にイキ堕ちた地味メガネ美乳介護士 八木奈々",
-      "performerIds": [
-        "performer-003"
-      ],
-      "genres": [],
-      "releaseDate": "2026-07-31",
-      "duration": "",
-      "summary": "作品名・出演者・配信開始日・品番は第三者作品データベースの掲載情報で照合。FANZA個別商品ページおよびメーカー公式ページでの再確認は未了。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://seesaawiki.jp/av_name/d/MIDA-732",
-      "checkedAt": "2026-11-04",
-      "productCode": "MIDA-732",
-      "maker": "ムーディーズ",
-      "label": "MOODYZ DIVA",
-      "verificationStatus": "third_party_catalog_crosschecked",
-      "verificationNote": "AVWikiDBの作品ページに品番MIDA-732、出演者・作品名・配信開始日2026-07-31・メーカー／レーベルの記載あり。FANZA個別商品ページとメーカー公式ページでの照合は未了。"
-    },
-    {
-      "id": "work-006",
-      "title": "〖中出し特化ASMR〗 耳からトロける甘い妊娠おねだり淫語と受精おま●こ卑猥音「ぐちゅっびゅるっどぷっ…ドロり！」 朝から夜まで10発以上子宮に注ぐ妊娠願望彼女と中出し同棲生活",
-      "performerIds": [
-        "performer-003"
-      ],
-      "genres": [],
-      "releaseDate": "2026-11-03",
-      "duration": "",
-      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://moodyz.com/works/detail/MIDA846",
-      "checkedAt": "2026-11-04",
-      "productCode": "MIDA846",
-      "maker": "ムーディーズ",
-      "label": "MOODYZ DIVA",
-      "verificationStatus": "official_maker_product_page",
-      "verificationNote": "MOODYZ公式個別商品ページに正式タイトル、出演者・八木奈々、発売日2026-11-03、DVD品番MIDA846が同一ページに掲載。"
-    },
-    {
-      "id": "work-007",
-      "title": "イキ尽きて灰になれー。〖禁欲・媚薬・玩具責め・追撃絶頂〗All inエクスタシー ノーカットFUCK 楓カレン",
-      "performerIds": [
-        "performer-007"
-      ],
-      "genres": [],
-      "releaseDate": "2026-10-30",
-      "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1049284",
-      "checkedAt": "2026-11-04"
-    },
-    {
-      "id": "work-008",
-      "title": "M調教×相部屋NTR 家族旅行中に夫は急務でトンボ帰りし二人きりマゾ性癖を見抜かれた美人妻は義父に性的支配され…。",
-      "performerIds": [
-        "performer-007"
-      ],
-      "genres": [],
-      "releaseDate": "2026-12-01",
-      "duration": "",
-      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://ideapocket.com/works/detail/IDPC013",
-      "checkedAt": "2026-11-04",
-      "productCode": "IDPC013",
-      "maker": "アイデアポケット",
-      "label": "ティッシュ",
-      "verificationStatus": "official_maker_product_page",
-      "verificationNote": "IDEAPOCKET公式個別商品ページに正式タイトル、出演者・楓カレン、発売日2026-12-01、DVD品番IDPC013が同一ページに掲載。発売前の予約・近日発売作品として扱う。"
-    },
-    {
-      "id": "work-010",
-      "title": "銀河系最強エロ美少女たちが射精直後のビンカンおチ○ポバキュームしてくれる至高のお掃除フェラ70射精Overベスト",
-      "performerIds": [
-        "performer-006"
-      ],
-      "genres": [],
-      "releaseDate": "2026-09-25",
-      "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1035513",
-      "checkedAt": "2026-11-04"
-    },
-    {
-      "id": "work-011",
-      "title": "脳内がエロスで支配されるほどの興奮 舌と唾液が濃密に絡み合うアイポケ最強美女たちのベロキス性交100SEX 11時間 BEST",
-      "performerIds": [
-        "performer-006"
-      ],
-      "genres": [],
-      "releaseDate": "2026-09-08",
-      "duration": "",
-      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://ideapocket.com/works/detail/IPOK034",
-      "checkedAt": "2026-11-04",
-      "productCode": "IPOK034",
-      "maker": "アイデアポケット",
-      "label": "アイデアポケットBEST",
-      "verificationStatus": "official_maker_product_page",
-      "verificationNote": "IDEAPOCKET公式個別商品ページに作品名、出演者一覧（相沢みなみを含む）、発売日2026-09-08、DVD品番IPOK034が掲載。"
-    },
-    {
-      "id": "work-012",
-      "title": "お願いしてもヤリたい高嶺の美女を逆にオナホ扱い 圧倒的美顔ぞんざいフェラチオ 130コーナー",
-      "performerIds": [
-        "performer-006"
-      ],
-      "genres": [],
-      "releaseDate": "2026-05-12",
-      "duration": "",
-      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://ideapocket.com/works/detail/IPOK019",
-      "checkedAt": "2026-11-04",
-      "productCode": "IPOK019",
-      "maker": "アイデアポケット",
-      "label": "アイデアポケットBEST",
-      "verificationStatus": "official_maker_product_page",
-      "verificationNote": "IDEAPOCKET公式個別商品ページに作品名、出演者一覧（相沢みなみを含む）、発売日2026-05-12、DVD品番IPOK019が掲載。"
-    },
-    {
-      "id": "work-013",
-      "title": "専属8年間の奇跡、軌跡 IDEAPOCKET COMPLETE BEST 全87作品 46時間 12枚組 明里つむぎ",
-      "performerIds": [
-        "performer-004"
-      ],
-      "genres": [],
       "releaseDate": "2026-02-10",
-      "duration": "",
-      "summary": "同一出演者の別作品へ差し替え。商品情報の確認範囲は verificationNote を参照。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.suruga-ya.jp/product/detail/332103274",
-      "checkedAt": "2026-11-04",
-      "productCode": "IPOK-008",
-      "maker": "アイデアポケット",
-      "label": "アイデアポケットBEST",
-      "verificationStatus": "retailer_product_page_crosschecked",
-      "verificationNote": "駿河屋の商品詳細で出演者・メーカー・発売日・型番を確認。FANZA個別商品ページとメーカー公式での再確認は未了。"
-    },
-    {
-      "id": "work-014",
-      "title": "不倫中で妊活を嫌がる妻に即ズボ媚薬チ〇ポで意識がぶっ飛ぶほどイカセまくって孕ませ中出し！ 明里つむぎ",
-      "performerIds": [
-        "performer-004"
-      ],
-      "genres": [],
-      "releaseDate": "2026-09-17",
-      "duration": "",
-      "summary": "FNS-248・明里つむぎ・2026-09-17の一致を複数の第三者情報で確認。公式個別商品ページ未確認。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://mediaworldakiba.livedoor.blog/archives/cat_50030160.html?p=2",
-      "checkedAt": "2026-11-04",
-      "productCode": "FNS-248",
-      "maker": "FALENO",
-      "label": "FALENO",
-      "verificationStatus": "third_party_multi_source_crosschecked",
-      "verificationNote": "イベント対象商品情報にFNS-248・対象タイトル・明里つむぎ・9/17発売が記載。別イベント情報でも同品番・出演者・発売日が一致し、レーベル別作品データベースでもFNS-248／Tsumugi Akari／2026-09-17を確認。複数ソースで整合するが、FALENO公式個別商品ページを直接確認できていないため「メーカー公式確認済み」にはしない。",
+      "duration": "120分",
+      "productCode": "IPZZ778",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZZ778",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで楓カレンの出演、発売日2026年2月10日、DVD品番IPZZ778、収録時間120分、レーベル「ティッシュ」を照合。Blu-ray品番9IPZZ778、収録時間120分も併記されています。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "楓カレン出演のIDEAPOCKET作品。公式ページで発売日2026年2月10日、DVD品番IPZZ778、収録時間120分、レーベル「ティッシュ」を確認しています。",
       "verificationSources": [
-        "https://maharaja-event.com/event/event-8169/",
-        "https://av-event.jp/event/41083/",
-        "https://subtitletrans.com/database/studio/faleno"
+        "https://ideapocket.com/works/detail/IPZZ778"
       ]
     },
     {
-      "id": "work-016",
-      "title": "Julia18 翠緑のエレガンス・JULIA",
+      "id": "work-mdvr398",
+      "displayTitle": "宮下玲奈の相部屋テーマVR作品",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-009"
+        "miyashita-rena"
       ],
-      "genres": [],
-      "releaseDate": "2026-09-24",
-      "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1004672",
-      "checkedAt": "2026-11-04"
+      "releaseDate": "2026-01-31",
+      "duration": "79分",
+      "productCode": "MDVR398",
+      "maker": "MOODYZ",
+      "label": "MOODYZ VR",
+      "workType": "vr",
+      "format": "VR",
+      "sourceUrl": "https://moodyz.com/works/detail/MDVR398?page_from=actress&sys_code=72242",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで宮下玲奈の出演、発売日2026年1月31日、DVD品番MDVR398、収録時間79分、レーベルMOODYZ VRを同一ページで照合。公式ページのジャンルに「VR専用」と表示されています。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "宮下玲奈出演のMOODYZ VR作品。公式ページで発売日2026年1月31日、品番MDVR398、収録時間79分、MOODYZ VRレーベルおよび「VR専用」表示を確認しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MDVR398?page_from=actress&sys_code=72242"
+      ]
     },
     {
-      "id": "work-017",
-      "title": "Julia18 翠緑のエレガンス JULIA",
+      "id": "work-rebd980",
+      "displayTitle": "Julia17 悠久の夕凪",
+      "titleKind": "official_short_title",
       "performerIds": [
-        "performer-009"
+        "julia"
       ],
-      "genres": [],
-      "releaseDate": "2026-09-24",
-      "duration": "",
-      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://rebecca-web.com/actor.php?id=1070",
-      "checkedAt": "2026-11-04",
-      "productCode": "REBD-1066",
+      "releaseDate": "2025-11-06",
+      "duration": "87分",
+      "productCode": "REBD-980",
       "maker": "REbecca",
-      "verificationStatus": "official_maker_actor_and_sales_lists",
-      "verificationNote": "REbecca公式JULIA作品一覧とDVD/BD発売情報一覧に作品名・出演者・発売日2026-09-24を確認。品番REBD-1066はAVWikiDBの品番一覧で補完（メーカー公式の個別商品詳細は未確認）。"
+      "label": "S級アイドル",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://rebecca-web.com/detail.php?id=rebd_980",
+      "sourceLabel": "REbecca公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "REbecca公式個別商品ページで商品名「Julia17 悠久の夕凪・JULIA」、モデル名JULIA、DVD/BD発売日2025年11月6日、DVD品番REBD-980、収録時間87分、レーベルS級アイドルを照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "JULIA出演のREbecca作品「Julia17 悠久の夕凪」。DVD発売日2025年11月6日、品番REBD-980、収録時間87分、レーベルS級アイドルを公式個別ページで確認しています。",
+      "verificationSources": [
+        "https://rebecca-web.com/detail.php?id=rebd_980"
+      ]
     },
     {
-      "id": "work-018",
-      "title": "REbecca STARS13 -The marvels-",
+      "id": "work-mida368",
+      "displayTitle": "宮下玲奈の幼馴染テーマ作品",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-009"
+        "miyashita-rena"
       ],
-      "genres": [],
-      "releaseDate": "2026-02-19",
-      "duration": "",
-      "summary": "作品名・出演者・品番・日付の確認範囲は verificationNote を参照。紹介文・画像・アフィリエイトURLは未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://rebecca-web.com/actor.php?id=1070",
-      "checkedAt": "2026-11-04",
+      "releaseDate": "2025-10-21",
+      "duration": "140分",
+      "productCode": "MIDA368",
+      "maker": "MOODYZ",
+      "label": "MOODYZ DIVA",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://moodyz.com/works/detail/MIDA368",
+      "sourceLabel": "MOODYZ公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "MOODYZ公式個別商品ページで品番MIDA368、出演者・宮下玲奈、発売日2025年10月21日、レーベルMOODYZ DIVA、DVD収録時間140分を照合。表示名は正式タイトルの長文転載を避けた編集部による短縮表記です。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "宮下玲奈出演のMOODYZ DIVA作品。品番MIDA368、発売日2025年10月21日、DVD収録時間140分をメーカー公式個別商品ページで照合しています。",
+      "verificationSources": [
+        "https://moodyz.com/works/detail/MIDA368"
+      ]
+    },
+    {
+      "id": "work-ipzz677",
+      "displayTitle": "楓カレン出演の先輩との恋愛テーマ作品",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "kaede-karen"
+      ],
+      "releaseDate": "2025-10-14",
+      "duration": "120分",
+      "productCode": "IPZZ677",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZZ677",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで品番IPZZ677、出演者・楓カレン、発売日2025年10月14日、レーベル「ティッシュ」、DVD収録時間120分を照合。表示名は正式タイトルの長文転載を避けた編集部による短縮表記です。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "楓カレン出演のIDEAPOCKET作品。品番IPZZ677、発売日2025年10月14日、レーベル「ティッシュ」、DVD収録時間120分をメーカー公式個別商品ページで照合しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZZ677"
+      ]
+    },
+    {
+      "id": "work-rebd876",
+      "displayTitle": "Julia16 永遠なる美の世界",
+      "titleKind": "official_short_title",
+      "performerIds": [
+        "julia"
+      ],
+      "releaseDate": "2024-10-03",
+      "duration": "76分",
+      "productCode": "REBD-876",
       "maker": "REbecca",
-      "verificationStatus": "official_maker_actor_list",
-      "verificationNote": "REbecca公式JULIA作品一覧に作品名・出演者JULIA・発売日2026-02-19を確認。公式一覧に品番記載がないため品番は空欄。"
+      "label": "S級アイドル",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://rebecca-web.com/detail.php?id=rebd_876",
+      "sourceLabel": "REbecca公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "REbecca公式個別商品ページで商品名「Julia16 永遠なる美の世界・JULIA」、モデル名JULIA、DVD/BD発売日2024年10月3日、DVD品番REBD-876、収録時間76分、レーベルS級アイドルを照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "JULIA出演のREbecca作品「Julia16 永遠なる美の世界」。DVD発売日2024年10月3日、品番REBD-876、収録時間76分、レーベルS級アイドルを公式個別ページで確認しています。",
+      "verificationSources": [
+        "https://rebecca-web.com/detail.php?id=rebd_876"
+      ]
     },
     {
-      "id": "work-019",
-      "title": "銀河系最強エロ美少女たちが射精直後のビンカンおチ○ポバキュームしてくれる至高のお掃除フェラ70射精Overベスト",
+      "id": "work-rebd789",
+      "displayTitle": "Julia15 Bright eroticism",
+      "titleKind": "official_short_title",
       "performerIds": [
-        "performer-010"
+        "julia"
       ],
-      "genres": [],
-      "releaseDate": "2026-09-25",
-      "duration": "",
-      "summary": "作品タイトル・発売日は出典ページ掲載情報。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/fanza-database/actress/1030262",
-      "checkedAt": "2026-11-04"
+      "releaseDate": "2023-11-02",
+      "duration": "76分",
+      "productCode": "REBD-789",
+      "maker": "REbecca",
+      "label": "S級アイドル",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://rebecca-web.com/detail.php?id=rebd_789",
+      "sourceLabel": "REbecca公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "REbecca公式個別商品ページで商品名「Julia15 Bright eroticism・JULIA」、モデル名JULIA、DVD/BD発売日2023年11月2日、DVD品番REBD-789、収録時間76分、レーベルS級アイドルを照合。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "JULIA出演のREbecca作品「Julia15 Bright eroticism」。DVD発売日2023年11月2日、品番REBD-789、収録時間76分、レーベルS級アイドルを公式個別ページで確認しています。",
+      "verificationSources": [
+        "https://rebecca-web.com/detail.php?id=rebd_789"
+      ]
     },
     {
-      "id": "work-020",
-      "title": "〖※観覧注意〗〖※ヌキ過ぎ注意〗絶頂を超えた更に先、イキまくり限界ピストン！恍惚の過去最大トランスFUCK 三上悠亜",
+      "id": "work-ssis870",
+      "displayTitle": "凪ひかるのローションソープ企画",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-010"
+        "nagi-hikaru"
       ],
-      "genres": [],
-      "releaseDate": "2022-09-09",
-      "duration": "",
-      "summary": "同一出演者の別作品へ差し替え。商品情報の確認範囲は verificationNote を参照。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/articles/creator/mikami-yu-a",
-      "checkedAt": "2026-11-04",
-      "productCode": "SSIS-509",
-      "maker": "エスワン ナンバーワンスタイル",
-      "label": "S1 NO.1 STYLE",
-      "verificationStatus": "fanza_catalog_reference_crosschecked",
-      "verificationNote": "OpenFansの記事が公式FANZA商品情報として品番・配信開始日・出演者を参照。メーカー公式の個別ページは未確認。"
+      "releaseDate": "2023-10-10",
+      "duration": "120分",
+      "productCode": "SSIS870",
+      "maker": "S1",
+      "label": "未確認",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SSIS870",
+      "sourceLabel": "S1公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "S1公式個別商品ページで商品名「柔乳Jカップをヌルットロにして殿方に絡める贅沢大量ローションソープ嬢」、出演者・凪ひかる、発売日2023年10月10日、DVD品番SSIS870、収録時間120分を同一ページで照合。ページに独立したレーベル項目がないため、レーベルは未確認のままにしています。表示タイトルは編集部による短縮表記です。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "凪ひかる出演のS1作品。DVD発売日2023年10月10日、品番SSIS870、収録時間120分をメーカー公式個別ページで確認しています。公式ページに独立したレーベル項目はないため、レーベルは未確認としています。",
+      "verificationSources": [
+        "https://s1s1s1.com/works/detail/SSIS870"
+      ]
     },
     {
-      "id": "work-021",
-      "title": "同棲 LOVE STORY 三上悠亜",
+      "id": "work-ipz686",
+      "displayTitle": "愛華みれいのドキュメンタリー企画",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-010"
+        "aika-mirei"
       ],
-      "genres": [],
-      "releaseDate": "2022-07-08",
-      "duration": "",
-      "summary": "同一出演者の別作品へ差し替え。商品情報の確認範囲は verificationNote を参照。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://openfans.jp/articles/creator/mikami-yu-a",
-      "checkedAt": "2026-11-04",
-      "productCode": "SSIS-448",
-      "maker": "エスワン ナンバーワンスタイル",
-      "label": "S1 NO.1 STYLE",
-      "verificationStatus": "fanza_catalog_reference_crosschecked",
-      "verificationNote": "OpenFansの記事が公式FANZA商品情報として品番・配信開始日・出演者を参照。メーカー公式の個別ページは未確認。"
+      "releaseDate": "2016-01-19",
+      "duration": "150分",
+      "productCode": "IPZ686",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZ686?page_from=actress&sys_code=27425",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで出演者・発売日・DVD品番・収録時間・レーベル・単体作品表示を照合。発売日2016年1月19日、IPZ686、150分、レーベル「ティッシュ」。 確認日2026年11月22日。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "愛華みれい出演のIDEAPOCKET単体作品。公式個別ページで発売日2016年1月19日、品番IPZ686、収録時間150分、レーベル「ティッシュ」を確認しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZ686?page_from=actress&sys_code=27425",
+        "https://ideapocket.com/actress/detail/70718"
+      ],
+      "officialTitle": "彼氏（本物）の前で何度もマジイキしちゃいました。"
     },
     {
-      "id": "work-023",
-      "title": "母の幸せを守るため今日も私は義父に舐め犯●れる 河北彩花",
+      "id": "work-ipz671",
+      "displayTitle": "愛華みれいのインタビュー発・欲求企画",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-001"
+        "aika-mirei"
       ],
-      "genres": [],
-      "releaseDate": "2026-10-27",
-      "duration": "",
-      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04"
+      "releaseDate": "2015-12-19",
+      "duration": "150分",
+      "productCode": "IPZ671",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZ671?page_from=actress&sys_code=27425",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで出演者・発売日・DVD品番・収録時間・レーベルを照合。発売日2015年12月19日、IPZ671、150分、レーベル「ティッシュ」。 確認日2026年11月22日。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "愛華みれい出演のIDEAPOCKET単体作品。公式個別ページで発売日2015年12月19日、品番IPZ671、収録時間150分、レーベル「ティッシュ」を確認しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZ671?page_from=actress&sys_code=27425",
+        "https://ideapocket.com/actress/detail/70718"
+      ],
+      "officialTitle": "ワタシ！もっと気持ち良くなりたいんですっ！！"
     },
     {
-      "id": "work-024",
-      "title": "「今日はアブノーマルなエッチがしたい…」 そう甘えるCA彼女を無茶苦茶にしたらドMに目覚めた 河北彩花",
+      "id": "work-ipz652",
+      "displayTitle": "愛華みれいのデビュー作品",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-001"
+        "aika-mirei"
       ],
-      "genres": [],
-      "releaseDate": "2026-09-22",
-      "duration": "",
-      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04"
+      "releaseDate": "2015-11-19",
+      "duration": "130分",
+      "productCode": "IPZ652",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZ652?page_from=actress&sys_code=27425",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで出演者・発売日・DVD品番・収録時間・レーベル・デビュー作品表示を照合。発売日2015年11月19日、IPZ652、130分、レーベル「ティッシュ」。 確認日2026年11月22日。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "愛華みれいのIDEAPOCKETデビュー作品。公式個別ページで発売日2015年11月19日、品番IPZ652、収録時間130分、レーベル「ティッシュ」を確認しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZ652?page_from=actress&sys_code=27425",
+        "https://ideapocket.com/actress/detail/70718"
+      ],
+      "officialTitle": "撮影中に発覚！！アイポケに来たおっとり美人お姉さんは都内の某雀荘で働く現役有名女流雀士だった！？ 愛華みれいＡＶデビュー！"
     },
     {
-      "id": "work-022",
-      "title": "河北彩花の素の優しさと思いやり特化 関東巡行 筆おろしドキュメント",
+      "id": "work-ipz467",
+      "displayTitle": "逢坂はるなのデリバリーSEX企画",
+      "titleKind": "editorial_short_title",
       "performerIds": [
-        "performer-001"
+        "aisaka-haruna"
       ],
-      "genres": [],
-      "releaseDate": "2026-08-25",
+      "releaseDate": "2014-10-19",
+      "duration": "150分",
+      "productCode": "IPZ467",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZ467?page_from=actress&sys_code=20811",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで出演者・発売日・DVD品番・収録時間・レーベル・単体作品表示を照合。発売日2014年10月19日、IPZ467、150分、レーベル「ティッシュ」。 確認日2026年11月22日。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "逢坂はるな出演のIDEAPOCKET単体作品。公式個別ページで発売日2014年10月19日、品番IPZ467、収録時間150分、レーベル「ティッシュ」を確認しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZ467?page_from=actress&sys_code=20811",
+        "https://ideapocket.com/actress/detail/68268"
+      ],
+      "officialTitle": "デリバリーSEX アナタの自宅に国民的アイドル 逢坂はるなをお届けします"
+    },
+    {
+      "id": "work-ipz450",
+      "displayTitle": "逢坂はるなのソープ体験企画",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "aisaka-haruna"
+      ],
+      "releaseDate": "2014-09-19",
+      "duration": "160分",
+      "productCode": "IPZ450",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZ450?page_from=actress&sys_code=20811",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで出演者・発売日・DVD品番・収録時間・レーベルを照合。発売日2014年9月19日、IPZ450、160分、レーベル「ティッシュ」。 確認日2026年11月22日。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "逢坂はるな出演のIDEAPOCKET作品。公式個別ページで発売日2014年9月19日、品番IPZ450、収録時間160分、レーベル「ティッシュ」を確認しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZ450?page_from=actress&sys_code=20811",
+        "https://ideapocket.com/actress/detail/68268"
+      ],
+      "officialTitle": "世界最高級ソープへようこそ"
+    },
+    {
+      "id": "work-ipz418",
+      "displayTitle": "逢坂はるなの濃厚な接吻とSEX",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "aisaka-haruna"
+      ],
+      "releaseDate": "2014-07-19",
+      "duration": "160分",
+      "productCode": "IPZ418",
+      "maker": "IDEAPOCKET",
+      "label": "ティッシュ",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://ideapocket.com/works/detail/IPZ418?page_from=actress&sys_code=20811",
+      "sourceLabel": "IDEAPOCKET公式個別商品ページ",
+      "verificationStatus": "official_maker_product_page",
+      "verificationNote": "IDEAPOCKET公式個別商品ページで出演者・発売日・DVD品番・収録時間・レーベル・単体作品表示を照合。発売日2014年7月19日、IPZ418、160分、レーベル「ティッシュ」。 確認日2026年11月22日。",
+      "checkedAt": "2026-11-22",
+      "editorialSummary": "逢坂はるな出演のIDEAPOCKET単体作品。公式個別ページで発売日2014年7月19日、品番IPZ418、収録時間160分、レーベル「ティッシュ」を確認しています。",
+      "verificationSources": [
+        "https://ideapocket.com/works/detail/IPZ418?page_from=actress&sys_code=20811",
+        "https://ideapocket.com/actress/detail/68268"
+      ],
+      "officialTitle": "逢坂はるなの濃厚な接吻とSEX"
+    },
+    {
+      "id": "work-ssis817",
+      "displayTitle": "凪ひかるのJカップ挟射サロン企画",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "nagi-hikaru"
+      ],
+      "releaseDate": "2023-08-08",
       "duration": "",
-      "summary": "所属事務所の公式新着リリース欄に掲載。紹介文・ジャンル・商品画像は未登録。",
-      "imageUrl": "",
-      "affiliateUrl": "",
-      "sourceUrl": "https://www.t-powers.co.jp/talent/kawakitasaika/",
-      "checkedAt": "2026-11-04"
+      "productCode": "SSIS817",
+      "maker": "S1",
+      "label": "未確認",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SSIS817?page_from=actress&sys_code=73725",
+      "sourceLabel": "S1公式出演者作品一覧（個別商品リンク）・発売日一覧",
+      "verificationStatus": "official_maker_actor_listing_plus_release_calendar",
+      "verificationNote": "S1公式出演者ページ「凪ひかる」のWORKS一覧に作品名とSSIS817の個別商品リンクが掲載されています。S1公式発売日一覧には2023年8月8日の発売枠があり、外部作品データベース複数でも品番・出演者・発売日・収録時間120分が照合できます。ただし、この確認環境では公式個別商品ページ本文の取得ができていないため、「公式個別商品ページの全項目確認済み」とは扱いません。収録時間は個別ページで再確認できるまで未記載です。表示名は編集部による短縮表記です。",
+      "checkedAt": "2026-11-10",
+      "editorialSummary": "凪ひかる出演のS1単体作品。メーカー公式出演者ページの作品一覧に品番SSIS817と個別商品リンクが掲載され、公式発売日一覧と外部作品データベースで発売時期を照合しています。収録時間・正式表記はリンク先でご確認ください。",
+      "verificationSources": [
+        "https://s1s1s1.com/actress/detail/827801?page=9",
+        "https://s1s1s1.com/works/date",
+        "https://www.starwhoswho.com/model/shiose",
+        "https://www.olenvara.com/hikaru-nagi-3438.html"
+      ]
+    },
+    {
+      "id": "work-ssis784",
+      "displayTitle": "凪ひかるの禁欲・焦らし企画",
+      "titleKind": "editorial_short_title",
+      "performerIds": [
+        "nagi-hikaru"
+      ],
+      "releaseDate": "2023-07-11",
+      "duration": "",
+      "productCode": "SSIS784",
+      "maker": "S1",
+      "label": "未確認",
+      "workType": "standard",
+      "format": "DVD",
+      "sourceUrl": "https://s1s1s1.com/works/detail/SSIS784?page_from=actress&sys_code=73725",
+      "sourceLabel": "S1公式出演者作品一覧（個別商品リンク）・発売日一覧",
+      "verificationStatus": "official_maker_actor_listing_plus_release_calendar",
+      "verificationNote": "S1公式出演者ページ「凪ひかる」のWORKS一覧に作品名とSSIS784の個別商品リンクが掲載されています。S1公式発売日一覧には2023年7月11日の発売枠があり、外部作品データベース複数でも品番・出演者・発売日が照合できます。一方、収録時間は外部情報間で150分／151分の差があるため記載していません。この確認環境では公式個別商品ページ本文の取得ができていないため、「公式個別商品ページの全項目確認済み」とは扱いません。表示名は編集部による短縮表記です。",
+      "checkedAt": "2026-11-10",
+      "editorialSummary": "凪ひかる出演のS1単体作品。メーカー公式出演者ページの作品一覧に品番SSIS784と個別商品リンクが掲載され、公式発売日一覧と外部作品データベースで発売日を照合しています。収録時間は資料間に差があるため未記載です。",
+      "verificationSources": [
+        "https://s1s1s1.com/actress/detail/827801?page=9",
+        "https://s1s1s1.com/works/date",
+        "https://www.starwhoswho.com/model/shiose",
+        "https://olenvara.com/hikaru-nagi-3438.html",
+        "https://subtitletrans.com/ja/srt/ssis00784"
+      ]
     }
   ]
 }
